@@ -1,0 +1,2 @@
+# Gitcourse
+For zeroweb school
